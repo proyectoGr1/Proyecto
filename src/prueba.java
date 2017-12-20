@@ -1,4 +1,6 @@
 
 public class prueba {
-Hola SIOA
+	public prueba(){
+System.out.println("Hola mundo");
+	}
 }
